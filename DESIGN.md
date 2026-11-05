@@ -132,6 +132,7 @@ Matt is **not a coder**. Keep future work **visuals-first**:
 
 Touch-family standard. Invisible zones keep the playfield clean — no permanent on-screen buttons.
 
+- **Shared foundation** — The invisible A/B zones + swipe scheme is a **shared foundation** across the **Touch family of apps** and the **emulator apps**, already **tested and proven** there (including independent multi-touch). **Future games in the family inherit this same control system.**
 - **Default A / B zones** — Same default layout across **all Touch family games**, parked in **consistent screen corners** so muscle memory carries from one title to the next.
 - **Customization** — Players can **resize and reposition** the invisible zones, ideally by **dragging them live in-game**.
 - **Per-game saved profiles** — Each game stores its **own** button layout so players do not re-tune when switching titles (e.g. big zones for Frogert-style, tight corners for Pac-Man-style).
