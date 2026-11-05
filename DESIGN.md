@@ -119,6 +119,13 @@ Matt is **not a coder**. Keep future work **visuals-first**:
 - Exact spin-out duration and nitro economy numbers
 - Controls for touch (steer / nitro / shoot)
 
+## 6. Solo-First Roadmap
+
+- **First playable slice = one track with AI trucks and the spin-out special working** — that is the minimum complete game.
+- **Multiplayer mode is deferred** to a later pass — not part of v1.
+- **After the first slice works, iterate visuals** (icons, layouts, animations) **without changing core logic**, per Matt's usual workflow.
+- **Matt is not a coder** — visuals-first, **no code until explicitly asked**.
+
 ---
 
 *Mundy Morning Studios · Design sketch · No code in this repo yet*
