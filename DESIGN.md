@@ -117,7 +117,7 @@ Matt is **not a coder**. Keep future work **visuals-first**:
 - Final game title and four Baja Beetle colors
 - How many tracks in v1; whether Blaster / Sidewinder / Huevos Grande are names we keep or only mood boards
 - Exact spin-out duration and nitro economy numbers
-- Controls for touch (steer / nitro / shoot)
+- How A / B map to steer / nitro / shoot for this racer
 
 ## 6. Solo-First Roadmap
 
@@ -125,6 +125,17 @@ Matt is **not a coder**. Keep future work **visuals-first**:
 - **Multiplayer mode is deferred** to a later pass — not part of v1.
 - **After the first slice works, iterate visuals** (icons, layouts, animations) **without changing core logic**, per Matt's usual workflow.
 - **Matt is not a coder** — visuals-first, **no code until explicitly asked**.
+
+---
+
+## 7. Controls
+
+Touch-family standard. Invisible zones keep the playfield clean — no permanent on-screen buttons.
+
+- **Default A / B zones** — Same default layout across **all Touch family games**, parked in **consistent screen corners** so muscle memory carries from one title to the next.
+- **Customization** — Players can **resize and reposition** the invisible zones, ideally by **dragging them live in-game**.
+- **Per-game saved profiles** — Each game stores its **own** button layout so players do not re-tune when switching titles (e.g. big zones for Frogert-style, tight corners for Pac-Man-style).
+- **Independent multi-touch** — Zones are **independent**. More than one input must register at once without one affecting the other (e.g. swipe-hop + action together, or two directions for diagonal). **One finger must not block or cancel another.**
 
 ---
 
